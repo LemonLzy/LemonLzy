@@ -6,5 +6,3 @@ I'm a test engineer, which progressing towards test development. ⚡ Talk is Che
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lzy291980138@gmail.com)
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonLzy&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=LemonLzy&count_private=true&show_icons=true" height=145/></span>](https://lemonlzy.cn/)
-
-[![Security Status](https://s.murphysec.com/badge/LemonLzy/Algorithm_python.svg)](https://www.murphysec.com/p/LemonLzy/Algorithm_python)
